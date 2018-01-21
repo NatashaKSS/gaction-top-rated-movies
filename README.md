@@ -1,4 +1,4 @@
-## Top Rated Movies
+# Top Rated Movies
 An Action on Google that gives you the latest, top rated movies
 
 ### Deploy
